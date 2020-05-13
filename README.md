@@ -1,4 +1,4 @@
-"Modelagem de banco de dados de um pet shop com: 
+"Database modeling of data from a pet shop with:
 - CURSOR;
 - LOOPING;
 - VIEW;
